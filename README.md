@@ -1,16 +1,14 @@
-## Hi there 👋
+## Bem Vindo ao meu perfil ☣️👋
 
-<!--
-**bolinhadegolf123/bolinhadegolf123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Mateus José dos Santos
+  Estou estudando na Alura
+  Estou me desenvolvendo na linguagem JavaScript
+  Utilizo esse espaço para minha organizção e compartilhamento dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+## Voce pode entrar em contato comigo 📧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+mateusjosedossantos68@gmail.com
+00001091516418sp@al.educacao.sp.gov.br
+
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNscWN0MzRmNGQxMm9kNnY3ZjNqdHg1ZzEwbGNoa3Vna21naGM5cyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/aHL9U7uOsUepqFdQOW/giphy.gif)
+
